@@ -3,11 +3,11 @@
 Buenos días, nos tocó el **Proyecto GAMMA**, nos decidimos por un breve analisis de la pagina de la `formula F1`.
 Los integrantes del grupo son:
 
-- Sol del Valle Figueroa
-- Jorge Flores
-- Cristian Falco
-- Eduardo Figueroa
-- Walter Alejandro Nieto
+- Sol del Valle Figueroa.
+- Jorge Flores.
+- Cristian Falco.
+- Eduardo Figueroa.
+- Walter Alejandro Nieto.
 
 La estructura presentada es la siguiente:
 - Informe: presenta un breve informe en Power BI.
